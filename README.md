@@ -5,6 +5,6 @@
 
 [![](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sparshg.itch.io/the-block-game)
 
-![Screenshot 2023-04-18 at 8 29 21 PM](https://user-images.githubusercontent.com/43041139/232829447-74aa2e27-6166-41a1-8de7-2d9cf8bcfd82.jpeg)
+![out1](https://github.com/sparshg/block-game/assets/43041139/c01e39c0-d5d2-4c4a-b132-6fffcebeed89)
 
-![Screenshot 2023-04-18 at 8 30 09 PM](https://user-images.githubusercontent.com/43041139/232829734-96f9bc4c-3dee-4ac0-981e-d8c6196c57d9.jpeg)
+![out2](https://github.com/sparshg/block-game/assets/43041139/8e59c3f8-6fc5-459c-bbc3-ee383eee95b9)
